@@ -1,5 +1,5 @@
 # Stepik
-auto tests course
+This is a repository for https://stepik.org/course/575 
 
 Mucha shaka paka
 MUCHA
